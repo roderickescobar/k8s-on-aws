@@ -16,7 +16,7 @@ Capture learning path of k8s on AWS
 * Install kubectl
 * Install awscli
 
-ReferenceL https://github.com/kubernetes/kops/blob/master/docs/install.md
+Reference: https://github.com/kubernetes/kops/blob/master/docs/install.md
 
 ### Setup Permissions
 * Create the user and credentials
